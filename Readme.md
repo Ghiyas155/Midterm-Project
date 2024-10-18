@@ -1,11 +1,16 @@
-Readme
 IS601 Web systems Mid term project Summary We have a Json file and 2 python files which takes the existing Json file as an input and gives out customer details like name and phone number, and also gives information about the menu items,price and number of orders we got.
 
 Customer.json file is the output of customer.py file and items.json file is output of items.py file.
 
 Installation
 
-Install Python3.3 Install GIt Create an account Make a repo Collaborate with rxt1077 Import required libraries Functionalities and design implementation
+Install Python3.3
+Install GIt
+Create an account
+Make a repo
+Collaborate with rxt1077
+Import required libraries
+Functionalities and design implementation
 
 Customers.py file takes example_orders.json as input. It goe to the main method and calls the function read_object(), which opens a Json file and returns Json file. Then calls the function extract_customer_data() which returns required customer data and stores it in the variable customer_data(). Later it creates a customer.json file and dumps the customer name and phone number into it.
 
