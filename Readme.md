@@ -6,12 +6,11 @@ We have a Json file and 2 python files which takes the existing Json file as an 
 Customer.json file is the output of customer.py file and items.json file is output of items.py file.
  
 Installation
-1.  Install Python3.3
+1. Install Python3.3
 2. Install GIt
 3. Create an account
 4. Make a repo
-5. Collaborate with rxt1077
-6. Import required libraries
+5. Import required libraries
 
 Functionalities and design implementation
 
