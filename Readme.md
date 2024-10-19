@@ -9,7 +9,7 @@ Installation
 1. Install Python3.3
 2. Install GIt
 3. Create an account
-4. Make a repo
+4. Make a Repositories
 5. Import required libraries
 
 Functionalities and design implementation
