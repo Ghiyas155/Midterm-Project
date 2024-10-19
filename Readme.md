@@ -1,4 +1,4 @@
-# WSmidproject
+# Midterm-Project
 IS601 Web systems Mid term project 
 Summary
 We have a Json file and 2 python files which takes the existing Json file as an input and gives out customer details like name and phone number, and also gives information about the menu items,price and number of orders we got. 
